@@ -18,7 +18,7 @@ const authEndpoint = 'https://accounts.spotify.com/authorize';
 
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = '2e09114319d34310b17bd6fa2e66ec6a';
-const redirectUri = 'https://localhost:3000';
+const redirectUri = 'https://eflatt18.github.io/spotify-login/build/index.html';
 const scopes = [
   'streaming',
   'user-read-birthdate',
